@@ -7,7 +7,7 @@ Web and Software Developer
 I am a life long student who is updating myself continuously by learning new technologies. currently I am learning DevOps technologies so I can expand my knowledge to understand the entire SDLC, So I can deliver more for the company I work for.
 
 * 🌍  I'm based in Toronto, Ontario, Canada
-* 🖥️  See my portfolio at [MyPortfolio](http://https://aakibvah.github.io/)
+* 🖥️  See my portfolio at [MyPortfolio](https://aakibvah.github.io/)
 * ✉️  You can contact me at [aakibv290@gmail.com](mailto:aakibv290@gmail.com)
 * 🚀  I'm currently working on [E-Commerce app](http://github.com/Aakibvah/e-commerce.git)
 * 🧠  I'm learning Kubernetes and Redux-saga
