@@ -10,7 +10,7 @@ I am a life long student who is updating myself continuously by learning new tec
 * 🖥️  See my portfolio at [MyPortfolio](https://aakibvah.github.io/)
 * ✉️  You can contact me at [aakibv290@gmail.com](mailto:aakibv290@gmail.com)
 * 🚀  I'm currently working on [E-Commerce app](http://github.com/Aakibvah/e-commerce.git)
-* 🧠  I'm learning Kubernetes and Redux-saga
+* 🧠  I'm learning Kubernetes and Redux-saga and Data Structure and Algorithms.
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I am Batman, tell everyone.
 
